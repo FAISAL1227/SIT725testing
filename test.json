@@ -1,0 +1,4 @@
+"scripts": {
+  "test": "mocha --timeout 5000",
+  "coverage": "nyc npm run test"
+}
